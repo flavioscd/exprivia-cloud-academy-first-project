@@ -2,6 +2,4 @@
 Primo progetto sviluppato per la Exprivia Cloud Academy
 
 test 
-prova 
-123 
-123
+
